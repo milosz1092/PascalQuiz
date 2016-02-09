@@ -1,0 +1,96 @@
+Co zrobic jezeli kontrola lotow wyda polecenie "Position and Hold rw 29"?
+a) zatrzymac sie przed punktem oczekiwania pasa 29 i oczekiwac
+b) wystartowac z pasa 29
+c) zjechac z pasa najblizsza droga kolowania
+d) zajac pas 29 i czekac (line up and wait)
+D
+Pozycja samolotu rownolegla do osi pasa podczas kregu nadlotniskowego to?
+a) traffic pattern
+b) downwind
+c) crosswind
+d) base
+B
+Czym jest SID?
+a) procedura odlotu z pasa
+b) radar pogodowy
+c) termin oznaczajacy oblodzenie
+d) inaczej znak wywolawczy
+A
+Stopa (ft) w przeliczeniu na metry wynosi? 
+a) 5 m
+b) 1,5 m
+c) 0,305 m
+d) 0,2 m
+C
+Co to jest TCAS?
+a) system ostrzegania przed kolizja z inna maszyna
+b) system precyzyjnego podejscia
+c) rodzaj czarnej skrzynki
+d) skrot od Thunderstorm Coming Soon
+A
+Ktore z wymienionych okreslen jest sposobem wejscia w holding?
+a) outside entry
+b) direct entry
+c) horizontal entry
+d) vertical entry
+B
+Co to jest Backtrack?
+a) jazda po pasie pod prad
+b) procedura ladowania
+c) rodzaj holdingu
+d) inaczej cofanie (pushback)
+A
+Procedura STAR to?
+a) procedura odlotu z pasa
+b) procedura dolotowa
+c) inaczej podejscie ILS
+d) ster kierunku
+B
+Ile wynosi odlot na holdingu (leg) w warunkach bezwietrznych na FL140?
+a) 1,5 minuta
+b) 1 minuty
+c) 30 sekund
+d) 25 minut
+B
+ZFW (zero fuel weight) to?
+a) masa statku powietrznego po zaladowaniu pasazerow i bagazu ale bez paliwa
+b) maksymalna masa startowa samolotu
+c) masa statku powietrznego po zaladowaniu paliwa, pasazerow i bagazu
+d) masa statku powietrznego bez paliwam pasazerow i bagazu
+A
+Pojecie CAVOK oznacza?
+a) zla widocznosc
+b) Clouds Overcast (duze zachmurzenie)
+c) Cloud and Visibility OK
+d) cmok pilota w nosek
+C
+W polskiej przestrzeni powietrznej limit predkosci ponizej FL100 wynosi?
+a) 40 km/h
+b) 180 kts
+c) brak takiego limitu
+d) 250 kts
+D
+Lecac na HDG 270 stopni, lecisz na?
+a) wschod
+b) polnoc
+c) zachod
+d) poludnie
+C
+OM oznacza?
+a) outer marker
+b) onboard maps
+c) over minimum altitude
+d) over maximum altitude
+A
+Starty powinny odbywac sie?
+a) z wiatrem bocznym
+b) z wiatrem w ogon
+c) pod wiatr
+d) wiatr nigdy nie ma znaczenia
+C
+Czym jest METAR?
+a) jednostka odleglosci
+b) rodzaj radiolatarni
+c) chmura stratus ponizej 100 metrow
+d) informacja pogodowa
+D

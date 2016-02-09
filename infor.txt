@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------
+                                         INFORMACJE O PROGRAMIE
+----------------------------------------------------------------------------------------------------------
+WCZYTYWANIE:
+Procedura 'dotablicy' oblicza ile wierszy posiada plik oraz ilosc pytan. Nastepnie wczytuje wszystkie
+pytania testowe z pliku tekstowego i umieszcza je w tablicy dwuwymiarowej.
+
+ODCZYTYWANIE:
+Procedura 'test' wywoluje procedure 'dotablicy', losuje pytanie (sprawdza czy juz nie bylo wylosowane) i
+wypisuje na ekranie wylosowane pytanie z tablicy wraz z odpowiedziami. Zapisuje do nastepnych dwoch tablic
+wybrana oraz poprawna odpowiedz w tych samych rekordach, po czym porownuje je.
+
+Jezeli odpowiedzi zgadzaja sie, licznik odpowiedzi poprawnych wzrasta i wyswietla sie stosowny komunikat
+informujacy o udzieleniu poprawnej odpowiedzi. W przeciwnym wypadku, kiedy to dane z tablic nie zgadzaja
+sie nastepuje wyswietlenie komunikatu oraz informacja o blednej odpowiedzi (jezeli poprawna odpowiedz nie 
+miesci sie w jednej linii na ekranie jest stosownie przycinana do ostatniej spacji plus wielokropek).
+
+Po udzieleniu odpowiedzi wyswietlany jest graficzny ekran podsumowujacy, ktory informuje nas o uzyskanych
+punktach. (zmienna liczaca ilosc poprawnych odpowiedzi zamieniana jest na ciag znakow za pomoca funkcji
+Str, dzieki temu mozliwe jest wyswietlenie liczby punktow w trybie graficznym).
+
+MENU:
+Menu wykonane jest w trybie graficznym. Funkcje ReadKey oraz Case pozwalaja na sprawne poruszanie sie w 
+programie.
+
+Program wykonal Milosz Szewczyk. All rights reserved
