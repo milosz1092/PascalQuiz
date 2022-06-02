@@ -6,5 +6,6 @@ Between 2008 and 2012 I've attended a technical school with an IT profile. It wa
 * :open_file_folder: reading questions from file
 * :grey_question: randomization of asking order
 * usage of graphical :pencil2: and speaker :sound: interfaces
+* :smile_cat: [description that I wrote then](https://github.com/milosz1092/PascalQuiz/blob/master/infor.txt)
 
 After obtaining the appropriate number of points, the program displayed congratulations and played the melody with the loudspeaker installed on the motherboard.
